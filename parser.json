@@ -1,0 +1,8 @@
+{
+  "lang": "tsv",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-csv",
+  "semver": false,
+  "min_version": null,
+  "max_version": null,
+  "location": "tsv"
+}
